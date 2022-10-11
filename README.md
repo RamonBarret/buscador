@@ -1,3 +1,29 @@
+# Criando uma aplicação completa do zero com React JS.
+
+>Projeto buscador de CEP.
+
+![preview](./.github/preview.png)
+
+Projeto desevolvido através dos conhenhecimentos obtidos no vídeo do canal Sujeito Programador. 
+Esse programa busca os dados de um lugar através do CEP digitado. Foi adicionado uma biblioteca que compila os dados entrados utlizando o JSON.
+
+
+[🔗 Clique aqui para acessar](https://ramonbarret.github.io/buscador/)
+
+## 🛠 Tecnologias
+- JavaScript
+- ReactJS
+- JSON
+- HTML5
+- CSS3
+- Git e Github
+
+## 📲 Contato
+
+Email: ramon_barreto_medrado@hotmail.com
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +94,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
