@@ -25,6 +25,7 @@ Utilizei o Netlify e o Github para hospedar o meu site.
 - HTML5
 - CSS3
 - Git e Github
+- Netlify
 
 ## 📲 Contato
 
