@@ -2,13 +2,20 @@
 
 >Projeto buscador de CEP.
 
-![preview](./.github/preview.png)
+[🔗 Clique aqui para acessar](https://buscadorcep123.netlify.app)
+
+Tela inicial:
+
+![preview](./.github/preview01.png)
+
+
+Tela após pesquisa do CEP:
+
+![preview](./.github/preview02.png)
 
 Projeto desevolvido através dos conhenhecimentos obtidos no vídeo do canal Sujeito Programador. 
 Esse programa busca os dados de um lugar através do CEP digitado. Foi adicionado uma biblioteca que compila os dados entrados utlizando o JSON.
 
-
-[🔗 Clique aqui para acessar](https://buscadorcep123.netlify.app)
 
 ## 🛠 Tecnologias
 - JavaScript
