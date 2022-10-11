@@ -16,6 +16,7 @@ Tela após pesquisa do CEP:
 Projeto desevolvido através dos conhenhecimentos obtidos no vídeo do canal Sujeito Programador. 
 Esse programa busca os dados de um lugar através do CEP digitado. Foi adicionado uma biblioteca que compila os dados entrados utlizando o JSON.
 
+Utilizei o Netlify e o Github para hospedar o meu site.
 
 ## 🛠 Tecnologias
 - JavaScript
